@@ -1,31 +1,28 @@
-<h1 align="center">Hi,I'm Nazeef Shaikh</h1>
+<h1 align="center">Hi , I'm Nazeef Shaikh</h1>
 <h3 align="center">Data Engineer & DevOps Engineer | Big Data • Cloud • CI/CD • Cluster Security</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Deploying+and+Securing+Big+Data+Clusters;Automating+CI%2FCD+Pipelines+with+Jenkins;Orchestrating+Kubernetes+%26+Docker+Workloads;Building+Kafka+%26+Hadoop+Data+Pipelines;Managing+Cloudera+CDP+%2B+Kerberos+Security" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SkNazeef09&color=2E9EF7&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/SkNazeef09?label=Followers&style=flat-square&color=2E9EF7" />
-</p>
+---
+
+### About Me
+
+- Big Data Engineer specializing in designing, deploying, and securing production-grade **Cloudera Data Platform (CDP)** clusters spanning **HDFS, YARN, Hive, Kafka, Sqoop, and NiFi**
+- Hardened cluster security experience with **Kerberos authentication, Apache Ranger, and Apache Knox** for enterprise-grade access control and compliance
+- Strong DevOps capability containerizing and orchestrating workloads with **Docker and Kubernetes**
+- Automating CI/CD pipelines with **Jenkins and Git** for reliable, repeatable deployments
+- Provisioning and managing scalable cloud infrastructure on **AWS** (EC2, S3, EBS, MSK)
+- Focused on building reliable, secure, and production-ready platforms that connect data engineering with modern infrastructure automation
+
+Reach me: **nazeef797@gmail.com** | [LinkedIn](https://www.linkedin.com/in/nazeef-shaikh-7989a3251/)
 
 ---
 
-### 🚀 About Me
+### Technology Stack
 
-- 🔭 Currently working on **CI/CD automation**, **Kubernetes cluster deployments**, and **Big Data platform administration**
-- 🌱 Deepening my skills in **Cloudera CDP**, **Kerberos-secured clusters**, and **cloud-native data engineering**
-- 🛠️ I design and deploy infrastructure spanning **Docker, Kubernetes, Jenkins, Hadoop, Kafka, and AWS**
-- 🔐 Focused on **cluster security** — Kerberos authentication, access control, and hardened deployments
-- 💬 Ask me about: Jenkins pipelines, Kubernetes/kubeadm, Kafka clusters (Apache/Confluent/MSK), Cloudera CDP, Hadoop/Sqoop/NiFi, Kerberos
-- 📫 Reach me: **nazeef797@gmail.com** | [LinkedIn](https://www.linkedin.com/in/nazeef-shaikh-7989a3251/)
-
----
-
-### 🧰 Technology Stack
-
-#### 📊 Big Data & Data Engineering
+#### Big Data & Data Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
@@ -39,7 +36,7 @@
   <img src="https://img.shields.io/badge/YARN-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
 </p>
 
-#### 🔐 Cluster Security & Identity
+#### Cluster Security & Identity
 <p align="left">
   <img src="https://img.shields.io/badge/Kerberos-000000?style=for-the-badge&logo=keycloak&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Ranger-D22128?style=for-the-badge&logo=apache&logoColor=white" />
@@ -48,7 +45,7 @@
   <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazoniam&logoColor=white" />
 </p>
 
-#### ⚙️ DevOps & CI/CD
+#### DevOps & CI/CD
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -62,7 +59,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-#### ☁️ Cloud Platforms
+#### Cloud Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
@@ -72,7 +69,7 @@
   <img src="https://img.shields.io/badge/Amazon_VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-#### 💻 Languages
+#### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -83,7 +80,7 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description |
 |---|---|
@@ -106,7 +103,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SkNazeef09&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -123,7 +120,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nazeef-shaikh-7989a3251/" target="_blank">
@@ -136,4 +133,4 @@
 
 ---
 
-<p align="center"><i>⭐️ From <a href="https://github.com/SkNazeef09">SkNazeef09</a></i></p>
+<p align="center"><i> From <a href="https://github.com/SkNazeef09">SkNazeef09</a></i></p>
