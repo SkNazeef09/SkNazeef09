@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nazeef Shaikh</h1>
+<h1 align="center">Hi,I'm Nazeef Shaikh</h1>
 <h3 align="center">Data Engineer & DevOps Engineer | Big Data • Cloud • CI/CD • Cluster Security</h3>
 
 <p align="center">
